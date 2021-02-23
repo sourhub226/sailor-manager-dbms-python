@@ -17,3 +17,7 @@ Sailor relation includes a list of registered sailors. `SID` is the primary key.
 -	The database application is implemented using python.
 -	The GUI has been made using `Tkinter` module packaged with python.
 -	The module [`pymysql`](https://pypi.org/project/PyMySQL) is used to connect the application with mysql server.
+
+<br>
+
+![GUI](preview.png)
