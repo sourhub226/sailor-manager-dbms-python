@@ -1,3 +1,6 @@
+[![made-with-python](https://img.shields.io/static/v1?label=Made%20with&message=Python&logo=python&labelColor=FFD745&color=3475A7)](https://www.python.org/)
+![ViewCount](https://views.whatilearened.today/views/github/sourhub226/sailor-manager-dbms-python.svg)
+
 # Sailor Manager - MySQL DBMS implementation in Python.
 
 A simple database application for the following schema
